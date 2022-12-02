@@ -15,7 +15,7 @@ public class Main {
         int[] iarr = allIndices(arr, x, 0, 0);
 
         if(iarr.length == 0){
-            System.out.println();
+            System.out.println("NO OUTPUT");
             return;
         }
 
